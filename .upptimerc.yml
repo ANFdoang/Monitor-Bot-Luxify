@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Monitoring Bot Replit
+    url: https://replit.com/@AnfStore/Bot-Discord-Luxify
   - name: IPv6 test
     url: forwardemail.net
     port: 80
